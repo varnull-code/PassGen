@@ -17,6 +17,12 @@ Download the ``PassGen.py`` file using:
 wget https://raw.githubusercontent.com/varnull-code/PassGen/main/PassGen.py
 ```
 
+or if ``wget`` is not available, you can use ``curl`` instead:
+
+```sh
+curl -LO https://raw.githubusercontent.com/varnull-code/PassGen/main/PassGen.py
+```
+
 ## Usage
 
 Ensure Python 3 is installed.
