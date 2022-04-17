@@ -25,8 +25,6 @@ To run:
 - PowerShell/CMD: Use ``python3 {file location}\PassGen.py``
 - Use options such as ``-h`` to find out all options. A quick guide is to use ``-l {length}`` for quick password generation or use ``-m`` to use the full menu mode of the program.
 
-Feel free to remove any sections that aren't applicable to your project.
-
 ## Support
 
 Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
