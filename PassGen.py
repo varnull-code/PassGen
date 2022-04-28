@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Author      : varnull
 # Version     : v1.0.0
 # Description : A simple alphanumeric password generator
